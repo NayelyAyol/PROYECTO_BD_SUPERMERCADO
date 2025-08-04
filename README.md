@@ -18,20 +18,13 @@
 <br>
 <h4>👁 Modelo Entidad Relación de la Base de Datos</h4>
 <div style="flex: 1; border: 1px solid #ccc; padding: 5px; text-align: center;">
-  <img src="ImagenesSistema/login.jpg" alt="Pantalla 1" style="width: 100%; height: auto;">
-  <h4>Login</h4>
+  <img src="ModeloBD/Proyecto_Supermercado.png" alt="Modelo" style="width: 100%; height: auto;">
 </div>
 
 <br>
-<h4>📥Descarga del sistema</h4>
-<a href="https://drive.google.com/drive/folders/1wChsA4pF3qrglqcBfyBN5FLVFDd3CZuP?usp=sharing" target="_blank">
-  Descargar SITRANS (.exe)
-</a>
-
-<br>
-<h4>📄Descarga el Java Doc</h4>
+<h4>📄Diapositivas</h4>
 <a href="https://drive.google.com/drive/folders/1S6WbInQgmOpezZO5Bprq_97WkJPtV60_?usp=sharing" target="_blank">
-  Descargar JAVA DOC
+  Descargar Presentación
 </a>
 
 <br>
