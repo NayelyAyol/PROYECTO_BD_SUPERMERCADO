@@ -9,7 +9,7 @@
 
 <br>
 <h4>⚙ Tecnologías usadas</h4>
-<p>- SQL Server<br>- Cifrado y hashing<br>- MySQL - Clever Cloud<br>- JDBC<br>- Git Hub</p>
+<p>- SQL Server<br>- Cifrado y hashing<br>- Services.msc<br>- Git Hub</p>
 
 <br>
 <h4>👩‍💻 Autores</h4>
