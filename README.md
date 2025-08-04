@@ -21,14 +21,9 @@
   <img src="ModeloBD/Proyecto_Supermercado.png" alt="Modelo" style="width: 100%; height: auto;">
 </div>
 
-<br>
-<h4>📄Diapositivas</h4>
-<a href="https://drive.google.com/drive/folders/1S6WbInQgmOpezZO5Bprq_97WkJPtV60_?usp=sharing" target="_blank">
-  Descargar Presentación
-</a>
 
 <br>
-<h4>🎥 Video tutorial del sistema</h4>
-<a href="https://youtu.be/HotZ4_PFr8k" target="_blank" style="background-color: #2196F3; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">
+<h4>🎥 Video tutorial del sistema del Supermercado</h4>
+<a href="https://youtu.be/UeBhBLj7d1Q" target="_blank" style="background-color: #2196F3; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">
   Ver Video
 </a>
