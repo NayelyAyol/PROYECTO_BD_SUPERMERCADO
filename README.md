@@ -13,7 +13,7 @@
 
 <br>
 <h4>👩‍💻 Autores</h4>
-<p>- Nayely Ayol<br>- Alessia Pérez</p>
+<p>- Nayely Ayol<br>- Alessia Perez</p>
 
 <br>
 <h4>👁 Modelo Entidad Relación de la Base de Datos</h4>
