@@ -27,3 +27,9 @@
 <a href="https://youtu.be/UeBhBLj7d1Q" target="_blank" style="background-color: #2196F3; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">
   Ver Video
 </a>
+
+<br>
+<h4>📄Presentación</h4>
+<a href="https://gamma.app/docs/Sistema-de-Gestion-para-Supermercado-ud0w3m6dqukzo5e" target="_blank" style="background-color: #2196F3; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px;">
+  Ver Diapositivas
+</a>
